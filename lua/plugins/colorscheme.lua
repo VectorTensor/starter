@@ -38,7 +38,7 @@ return {
   {
     "LazyVim/LazyVim",
     opts = {
-      colorscheme = "kanagawa-dragon", -- Change this to "gruvbox" or "tokyonight" to switch
+      colorscheme = "koehler", -- Change this to "gruvbox" or "tokyonight" to switch
     },
   },
 }
