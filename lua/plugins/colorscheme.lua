@@ -39,6 +39,9 @@ return {
     "LazyVim/LazyVim",
     opts = {
       colorscheme = "koehler", -- Change this to "gruvbox" or "tokyonight" to switch
+      highlights = {
+        CursorLine = { underline = true, bg = "None" },
+      },
     },
   },
 }
